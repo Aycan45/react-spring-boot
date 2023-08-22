@@ -32,7 +32,7 @@ Peer into the crystal ball and discover insights with spellbinding analytics! Us
 
 1. **Clone the Portal**: Begin your journey by cloning this mystical portal:
    ```
-   git clone https://github.com/your-username/MagicAdventure.git
+   git clone https://github.com/Aycan45/react-spring-boot.git
    ```
 
 2. **Forge New Artifacts**: Dive into the existing spells - I mean code - and forge new artifacts that push the boundaries of possibility.
